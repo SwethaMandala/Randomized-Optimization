@@ -1,0 +1,1625 @@
+
+
+Simulated Annealing on WDBC dataset
+
+SA_1E9_.90
+
+Iteration #100
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 1.085
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 1.032
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 1.001
+Test Time: 0.002
+
+Iteration #200
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 2.142
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 2.113
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 2.053
+Test Time: 0.002
+
+Iteration #400
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 4.650
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 82.159
+Test Accuracy: 82.609
+Train Time: 4.141
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 88.546
+Test Accuracy: 85.217
+Train Time: 3.973
+Test Time: 0.002
+
+Iteration #800
+
+Trial #0
+Train Accuracy: 91.189
+Test Accuracy: 89.565
+Train Time: 8.616
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 82.379
+Test Accuracy: 86.087
+Train Time: 8.423
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 76.211
+Test Accuracy: 80.000
+Train Time: 8.091
+Test Time: 0.002
+
+Iteration #1200
+
+Trial #0
+Train Accuracy: 75.330
+Test Accuracy: 77.391
+Train Time: 13.854
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 83.921
+Test Accuracy: 80.870
+Train Time: 13.614
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 91.189
+Test Accuracy: 80.870
+Train Time: 12.005
+Test Time: 0.001
+
+Iteration #2500
+
+Trial #0
+Train Accuracy: 77.974
+Test Accuracy: 58.261
+Train Time: 28.313
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 93.172
+Test Accuracy: 77.391
+Train Time: 28.896
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 72.247
+Test Accuracy: 56.522
+Train Time: 26.035
+Test Time: 0.002
+
+Iteration #5000
+
+Trial #0
+Train Accuracy: 87.004
+Test Accuracy: 80.000
+Train Time: 58.635
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 93.392
+Test Accuracy: 87.826
+Train Time: 54.416
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 77.533
+Test Accuracy: 60.000
+Train Time: 53.480
+Test Time: 0.002
+
+Iteration #8000
+
+Trial #0
+Train Accuracy: 94.273
+Test Accuracy: 92.174
+Train Time: 88.808
+Test Time: 0.003
+
+Trial #1
+Train Accuracy: 93.392
+Test Accuracy: 89.565
+Train Time: 87.426
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 93.392
+Test Accuracy: 85.217
+Train Time: 85.775
+Test Time: 0.002
+
+Iteration #15000
+
+Trial #0
+Train Accuracy: 91.630
+Test Accuracy: 88.696
+Train Time: 171.993
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 95.154
+Test Accuracy: 88.696
+Train Time: 160.415
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 90.529
+Test Accuracy: 83.478
+Train Time: 161.761
+Test Time: 0.002SA_1E9_.95
+
+Iteration #100
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 1.028
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 1.011
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 1.097
+Test Time: 0.002
+
+Iteration #200
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 2.091
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 30.617
+Test Accuracy: 57.391
+Train Time: 1.984
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 68.502
+Test Accuracy: 41.739
+Train Time: 2.168
+Test Time: 0.002
+
+Iteration #400
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 39.130
+Train Time: 4.040
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 4.150
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 4.304
+Test Time: 0.002
+
+Iteration #800
+
+Trial #0
+Train Accuracy: 90.308
+Test Accuracy: 84.348
+Train Time: 8.317
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.502
+Test Accuracy: 40.870
+Train Time: 8.171
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 81.498
+Test Accuracy: 86.087
+Train Time: 8.812
+Test Time: 0.002
+
+Iteration #1200
+
+Trial #0
+Train Accuracy: 87.225
+Test Accuracy: 86.087
+Train Time: 12.311
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 87.004
+Test Accuracy: 85.217
+Train Time: 12.676
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 85.022
+Test Accuracy: 84.348
+Train Time: 13.005
+Test Time: 0.002
+
+Iteration #2500
+
+Trial #0
+Train Accuracy: 93.172
+Test Accuracy: 81.739
+Train Time: 27.523
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 92.291
+Test Accuracy: 93.043
+Train Time: 26.211
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 88.546
+Test Accuracy: 84.348
+Train Time: 26.327
+Test Time: 0.002
+
+Iteration #5000
+
+Trial #0
+Train Accuracy: 91.630
+Test Accuracy: 88.696
+Train Time: 54.838
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 91.630
+Test Accuracy: 86.957
+Train Time: 53.423
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 86.344
+Test Accuracy: 82.609
+Train Time: 53.971
+Test Time: 0.002
+
+Iteration #8000
+
+Trial #0
+Train Accuracy: 92.070
+Test Accuracy: 89.565
+Train Time: 85.671
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 94.493
+Test Accuracy: 86.087
+Train Time: 86.818
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 93.833
+Test Accuracy: 90.435
+Train Time: 87.984
+Test Time: 0.002
+
+Iteration #15000
+
+Trial #0
+Train Accuracy: 92.291
+Test Accuracy: 91.304
+Train Time: 166.378
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 94.273
+Test Accuracy: 88.696
+Train Time: 171.544
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 94.493
+Test Accuracy: 92.174
+Train Time: 163.832
+Test Time: 0.002SA_1E9_.99
+
+Iteration #100
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 1.020
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 1.044
+Test Time: 0.003
+
+Trial #2
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 0.996
+Test Time: 0.002
+
+Iteration #200
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 2.051
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 2.095
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 2.080
+Test Time: 0.002
+
+Iteration #400
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 4.132
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 4.333
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 31.278
+Test Accuracy: 58.261
+Train Time: 4.158
+Test Time: 0.002
+
+Iteration #800
+
+Trial #0
+Train Accuracy: 87.004
+Test Accuracy: 84.348
+Train Time: 8.176
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 8.502
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 8.341
+Test Time: 0.002
+
+Iteration #1200
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 12.142
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 13.426
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 58.370
+Test Accuracy: 76.522
+Train Time: 11.864
+Test Time: 0.001
+
+Iteration #2500
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 26.871
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 26.351
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 16.520
+Test Accuracy: 23.478
+Train Time: 26.673
+Test Time: 0.002
+
+Iteration #5000
+
+Trial #0
+Train Accuracy: 83.480
+Test Accuracy: 70.435
+Train Time: 52.512
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 71.366
+Test Accuracy: 50.435
+Train Time: 57.305
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 88.106
+Test Accuracy: 86.087
+Train Time: 54.690
+Test Time: 0.002
+
+Iteration #8000
+
+Trial #0
+Train Accuracy: 86.784
+Test Accuracy: 90.435
+Train Time: 89.325
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 93.172
+Test Accuracy: 95.652
+Train Time: 85.165
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 92.070
+Test Accuracy: 89.565
+Train Time: 90.062
+Test Time: 0.002
+
+Iteration #15000
+
+Trial #0
+Train Accuracy: 82.819
+Test Accuracy: 57.391
+Train Time: 169.721
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 94.053
+Test Accuracy: 87.826
+Train Time: 166.465
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 93.612
+Test Accuracy: 83.478
+Train Time: 170.096
+Test Time: 0.002SA_1E11_.90
+
+Iteration #100
+
+Trial #0
+Train Accuracy: 62.555
+Test Accuracy: 36.522
+Train Time: 1.038
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 32.379
+Test Accuracy: 59.130
+Train Time: 1.027
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 1.000
+Test Time: 0.003
+
+Iteration #200
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 2.007
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 2.019
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 66.740
+Test Accuracy: 41.739
+Train Time: 2.147
+Test Time: 0.001
+
+Iteration #400
+
+Trial #0
+Train Accuracy: 87.004
+Test Accuracy: 84.348
+Train Time: 4.302
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 4.033
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 69.383
+Test Accuracy: 43.478
+Train Time: 4.380
+Test Time: 0.002
+
+Iteration #800
+
+Trial #0
+Train Accuracy: 69.383
+Test Accuracy: 42.609
+Train Time: 8.551
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 70.485
+Test Accuracy: 53.913
+Train Time: 8.186
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 89.427
+Test Accuracy: 90.435
+Train Time: 8.443
+Test Time: 0.001
+
+Iteration #1200
+
+Trial #0
+Train Accuracy: 89.427
+Test Accuracy: 85.217
+Train Time: 12.615
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 75.771
+Test Accuracy: 62.609
+Train Time: 12.402
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 69.163
+Test Accuracy: 42.609
+Train Time: 12.495
+Test Time: 0.001
+
+Iteration #2500
+
+Trial #0
+Train Accuracy: 68.502
+Test Accuracy: 40.870
+Train Time: 28.463
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 92.952
+Test Accuracy: 85.217
+Train Time: 26.283
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 91.850
+Test Accuracy: 88.696
+Train Time: 27.448
+Test Time: 0.001
+
+Iteration #5000
+
+Trial #0
+Train Accuracy: 91.630
+Test Accuracy: 85.217
+Train Time: 57.543
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 91.850
+Test Accuracy: 77.391
+Train Time: 53.734
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 74.229
+Test Accuracy: 55.652
+Train Time: 55.594
+Test Time: 0.002
+
+Iteration #8000
+
+Trial #0
+Train Accuracy: 90.088
+Test Accuracy: 91.304
+Train Time: 88.551
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 92.952
+Test Accuracy: 93.043
+Train Time: 83.180
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 94.934
+Test Accuracy: 86.957
+Train Time: 87.749
+Test Time: 0.001
+
+Iteration #15000
+
+Trial #0
+Train Accuracy: 95.154
+Test Accuracy: 85.217
+Train Time: 166.614
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 94.714
+Test Accuracy: 86.957
+Train Time: 160.943
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 96.476
+Test Accuracy: 86.957
+Train Time: 168.508
+Test Time: 0.003SA_1E11_.95
+
+Iteration #100
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 1.048
+Test Time: 0.003
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 1.066
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 1.077
+Test Time: 0.002
+
+Iteration #200
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 2.018
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 2.043
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 30.617
+Test Accuracy: 54.783
+Train Time: 2.236
+Test Time: 0.001
+
+Iteration #400
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 4.096
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 4.272
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 4.207
+Test Time: 0.002
+
+Iteration #800
+
+Trial #0
+Train Accuracy: 79.075
+Test Accuracy: 83.478
+Train Time: 8.319
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 72.467
+Test Accuracy: 48.696
+Train Time: 8.241
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 85.903
+Test Accuracy: 88.696
+Train Time: 8.081
+Test Time: 0.001
+
+Iteration #1200
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 13.300
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 89.427
+Test Accuracy: 90.435
+Train Time: 12.736
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 78.855
+Test Accuracy: 80.000
+Train Time: 12.834
+Test Time: 0.002
+
+Iteration #2500
+
+Trial #0
+Train Accuracy: 84.141
+Test Accuracy: 81.739
+Train Time: 28.056
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 74.890
+Test Accuracy: 80.870
+Train Time: 26.320
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 74.009
+Test Accuracy: 64.348
+Train Time: 27.784
+Test Time: 0.002
+
+Iteration #5000
+
+Trial #0
+Train Accuracy: 83.040
+Test Accuracy: 71.304
+Train Time: 56.362
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 90.749
+Test Accuracy: 90.435
+Train Time: 54.369
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 89.648
+Test Accuracy: 85.217
+Train Time: 53.510
+Test Time: 0.002
+
+Iteration #8000
+
+Trial #0
+Train Accuracy: 95.815
+Test Accuracy: 87.826
+Train Time: 85.508
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 92.511
+Test Accuracy: 89.565
+Train Time: 88.143
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 88.987
+Test Accuracy: 87.826
+Train Time: 94.223
+Test Time: 0.002
+
+Iteration #15000
+
+Trial #0
+Train Accuracy: 95.154
+Test Accuracy: 84.348
+Train Time: 156.264
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 92.511
+Test Accuracy: 88.696
+Train Time: 173.217
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 93.833
+Test Accuracy: 89.565
+Train Time: 175.456
+Test Time: 0.002SA_1E11_.99
+
+Iteration #100
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 1.036
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 1.058
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 1.035
+Test Time: 0.002
+
+Iteration #200
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 2.044
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 2.163
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 2.054
+Test Time: 0.001
+
+Iteration #400
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 4.130
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 4.170
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 35.463
+Test Accuracy: 20.000
+Train Time: 4.168
+Test Time: 0.001
+
+Iteration #800
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 8.558
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 8.373
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 8.350
+Test Time: 0.002
+
+Iteration #1200
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 12.320
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 12.969
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 12.897
+Test Time: 0.001
+
+Iteration #2500
+
+Trial #0
+Train Accuracy: 64.537
+Test Accuracy: 42.609
+Train Time: 26.307
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 81.718
+Test Accuracy: 84.348
+Train Time: 28.716
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 36.344
+Test Accuracy: 56.522
+Train Time: 27.507
+Test Time: 0.002
+
+Iteration #5000
+
+Trial #0
+Train Accuracy: 83.040
+Test Accuracy: 78.261
+Train Time: 55.362
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 91.630
+Test Accuracy: 79.130
+Train Time: 56.708
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 88.987
+Test Accuracy: 89.565
+Train Time: 52.921
+Test Time: 0.002
+
+Iteration #8000
+
+Trial #0
+Train Accuracy: 91.189
+Test Accuracy: 86.087
+Train Time: 93.352
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 91.189
+Test Accuracy: 89.565
+Train Time: 86.705
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 92.070
+Test Accuracy: 82.609
+Train Time: 85.213
+Test Time: 0.002
+
+Iteration #15000
+
+Trial #0
+Train Accuracy: 91.630
+Test Accuracy: 86.087
+Train Time: 172.542
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 93.833
+Test Accuracy: 82.609
+Train Time: 165.532
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 92.731
+Test Accuracy: 86.957
+Train Time: 168.871
+Test Time: 0.002SA_1E13_90
+
+Iteration #100
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 1.028
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 62.555
+Test Accuracy: 59.130
+Train Time: 1.060
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 1.142
+Test Time: 0.002
+
+Iteration #200
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 2.014
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 2.052
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 29.736
+Test Accuracy: 49.565
+Train Time: 2.287
+Test Time: 0.002
+
+Iteration #400
+
+Trial #0
+Train Accuracy: 87.885
+Test Accuracy: 84.348
+Train Time: 4.102
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 4.371
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 4.379
+Test Time: 0.002
+
+Iteration #800
+
+Trial #0
+Train Accuracy: 77.093
+Test Accuracy: 60.000
+Train Time: 8.836
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 88.767
+Test Accuracy: 85.217
+Train Time: 8.587
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 8.897
+Test Time: 0.002
+
+Iteration #1200
+
+Trial #0
+Train Accuracy: 91.410
+Test Accuracy: 87.826
+Train Time: 13.800
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 84.802
+Test Accuracy: 86.957
+Train Time: 13.498
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 91.850
+Test Accuracy: 91.304
+Train Time: 13.880
+Test Time: 0.002
+
+Iteration #2500
+
+Trial #0
+Train Accuracy: 68.722
+Test Accuracy: 41.739
+Train Time: 29.782
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 92.511
+Test Accuracy: 78.261
+Train Time: 27.064
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 88.987
+Test Accuracy: 90.435
+Train Time: 28.446
+Test Time: 0.002
+
+Iteration #5000
+
+Trial #0
+Train Accuracy: 94.053
+Test Accuracy: 89.565
+Train Time: 58.021
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 91.630
+Test Accuracy: 85.217
+Train Time: 56.310
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 91.850
+Test Accuracy: 89.565
+Train Time: 56.685
+Test Time: 0.002
+
+Iteration #8000
+
+Trial #0
+Train Accuracy: 92.070
+Test Accuracy: 87.826
+Train Time: 90.801
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 92.731
+Test Accuracy: 91.304
+Train Time: 91.437
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 90.969
+Test Accuracy: 84.348
+Train Time: 89.819
+Test Time: 0.002
+
+Iteration #15000
+
+Trial #0
+Train Accuracy: 92.731
+Test Accuracy: 78.261
+Train Time: 166.025
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 95.595
+Test Accuracy: 85.217
+Train Time: 176.716
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 92.291
+Test Accuracy: 85.217
+Train Time: 173.907
+Test Time: 0.002SA_1E13_.95
+
+Iteration #100
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 1.086
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 1.055
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 1.118
+Test Time: 0.001
+
+Iteration #200
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 2.287
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.722
+Test Accuracy: 41.739
+Train Time: 2.153
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 2.212
+Test Time: 0.001
+
+Iteration #400
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 4.245
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 4.216
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 4.518
+Test Time: 0.002
+
+Iteration #800
+
+Trial #0
+Train Accuracy: 70.485
+Test Accuracy: 45.217
+Train Time: 8.359
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 87.665
+Test Accuracy: 80.870
+Train Time: 8.829
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 74.890
+Test Accuracy: 76.522
+Train Time: 8.857
+Test Time: 0.001
+
+Iteration #1200
+
+Trial #0
+Train Accuracy: 80.396
+Test Accuracy: 80.870
+Train Time: 13.260
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 91.410
+Test Accuracy: 88.696
+Train Time: 12.882
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 81.938
+Test Accuracy: 69.565
+Train Time: 13.545
+Test Time: 0.001
+
+Iteration #2500
+
+Trial #0
+Train Accuracy: 86.344
+Test Accuracy: 80.000
+Train Time: 27.350
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 86.564
+Test Accuracy: 84.348
+Train Time: 28.021
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 90.088
+Test Accuracy: 86.957
+Train Time: 28.606
+Test Time: 0.002
+
+Iteration #5000
+
+Trial #0
+Train Accuracy: 89.648
+Test Accuracy: 84.348
+Train Time: 54.110
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 93.612
+Test Accuracy: 92.174
+Train Time: 55.956
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 86.344
+Test Accuracy: 81.739
+Train Time: 57.206
+Test Time: 0.002
+
+Iteration #8000
+
+Trial #0
+Train Accuracy: 93.833
+Test Accuracy: 80.870
+Train Time: 89.553
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 92.511
+Test Accuracy: 88.696
+Train Time: 88.883
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 93.392
+Test Accuracy: 89.565
+Train Time: 87.658
+Test Time: 0.002
+
+Iteration #15000
+
+Trial #0
+Train Accuracy: 94.053
+Test Accuracy: 87.826
+Train Time: 171.065
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 95.595
+Test Accuracy: 83.478
+Train Time: 173.227
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 88.326
+Test Accuracy: 82.609
+Train Time: 179.811
+Test Time: 0.002SA_1E13_.99
+
+Iteration #100
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 1.125
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 1.037
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 68.722
+Test Accuracy: 42.609
+Train Time: 1.027
+Test Time: 0.002
+
+Iteration #200
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 2.259
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 2.069
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 2.120
+Test Time: 0.002
+
+Iteration #400
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 4.476
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 4.155
+Test Time: 0.001
+
+Trial #2
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 4.597
+Test Time: 0.002
+
+Iteration #800
+
+Trial #0
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 8.392
+Test Time: 0.001
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 8.822
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 8.513
+Test Time: 0.001
+
+Iteration #1200
+
+Trial #0
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 13.085
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 66.960
+Test Accuracy: 43.478
+Train Time: 13.489
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 13.367
+Test Time: 0.002
+
+Iteration #2500
+
+Trial #0
+Train Accuracy: 41.630
+Test Accuracy: 65.217
+Train Time: 26.168
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 68.282
+Test Accuracy: 40.870
+Train Time: 28.115
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 31.718
+Test Accuracy: 59.130
+Train Time: 28.542
+Test Time: 0.002
+
+Iteration #5000
+
+Trial #0
+Train Accuracy: 68.943
+Test Accuracy: 41.739
+Train Time: 53.125
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 90.529
+Test Accuracy: 87.826
+Train Time: 57.048
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 88.106
+Test Accuracy: 80.000
+Train Time: 56.231
+Test Time: 0.002
+
+Iteration #8000
+
+Trial #0
+Train Accuracy: 90.749
+Test Accuracy: 90.435
+Train Time: 87.398
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 87.885
+Test Accuracy: 90.435
+Train Time: 89.543
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 88.546
+Test Accuracy: 85.217
+Train Time: 90.173
+Test Time: 0.001
+
+Iteration #15000
+
+Trial #0
+Train Accuracy: 92.511
+Test Accuracy: 79.130
+Train Time: 172.480
+Test Time: 0.002
+
+Trial #1
+Train Accuracy: 94.273
+Test Accuracy: 84.348
+Train Time: 165.498
+Test Time: 0.002
+
+Trial #2
+Train Accuracy: 93.172
+Test Accuracy: 89.565
+Train Time: 169.501
+Test Time: 0.002
